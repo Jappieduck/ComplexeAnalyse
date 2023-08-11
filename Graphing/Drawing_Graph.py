@@ -4,7 +4,6 @@ import matplotlib.pyplot as plt
 import numpy as np
 import random
 
-a=1
 x = np.linspace(-20, 20)
 
 p1 = Graphing.Generate_Random_Point.generate(2)
